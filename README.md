@@ -43,7 +43,7 @@ I'm driven by curiosity and a love for learning — I grow my skills daily by bu
 ### 📫 Let's Connect!
 
 - 🌐 [Portfolio Website](https://walid-portfolio-two.vercel.app)
-- 🐦 [Instagram](https:/instagram.com/walidabed0)
+- 🐦 [Instagram](https://www.instagram.com/walidabed0/)
 - 💼 [LinkedIn](https://linkedin.com/in/walidabed0)
 - 📧 walidabed005@gmail.com
 
